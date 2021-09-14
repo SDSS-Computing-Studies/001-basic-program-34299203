@@ -1,4 +1,5 @@
 #! python3
 
 # SD Computing Studies Assignment
-hi
+
+print("Hello World!")
