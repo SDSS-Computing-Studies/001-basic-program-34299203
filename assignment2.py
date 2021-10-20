@@ -1,3 +1,2 @@
 #! python3
-
-print("This is my seccond program.")
+print("This is my second program.")
